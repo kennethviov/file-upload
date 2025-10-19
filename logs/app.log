@@ -1,0 +1,154 @@
+2025-10-19 15:30:49,258 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 15:30:49,258 INFO: [33mPress CTRL+C to quit[0m
+2025-10-19 15:30:49,262 INFO:  * Restarting with stat
+2025-10-19 15:30:50,377 WARNING:  * Debugger is active!
+2025-10-19 15:30:50,384 INFO:  * Debugger PIN: 587-549-864
+2025-10-19 15:31:13,386 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 15:31:13,386 INFO: [33mPress CTRL+C to quit[0m
+2025-10-19 15:31:13,387 INFO:  * Restarting with stat
+2025-10-19 15:31:14,405 WARNING:  * Debugger is active!
+2025-10-19 15:31:14,412 INFO:  * Debugger PIN: 587-549-864
+2025-10-19 15:39:29,417 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 15:39:29,417 INFO: [33mPress CTRL+C to quit[0m
+2025-10-19 15:39:29,420 INFO:  * Restarting with stat
+2025-10-19 15:39:30,467 WARNING:  * Debugger is active!
+2025-10-19 15:39:30,475 INFO:  * Debugger PIN: 587-549-864
+2025-10-19 20:46:23,354 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 20:46:23,354 INFO: [33mPress CTRL+C to quit[0m
+2025-10-19 20:46:23,356 INFO:  * Restarting with stat
+2025-10-19 20:46:24,228 WARNING:  * Debugger is active!
+2025-10-19 20:46:24,233 INFO:  * Debugger PIN: 587-549-864
+2025-10-19 20:58:38,745 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 20:58:38,745 INFO: [33mPress CTRL+C to quit[0m
+2025-10-19 20:59:32,318 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 20:59:32,318 INFO: [33mPress CTRL+C to quit[0m
+2025-10-19 21:00:21,483 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 21:00:21,483 INFO: [33mPress CTRL+C to quit[0m
+2025-10-19 21:03:04,786 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 21:03:04,787 INFO: [33mPress CTRL+C to quit[0m
+2025-10-19 21:04:11,134 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 21:04:11,135 INFO: [33mPress CTRL+C to quit[0m
+2025-10-19 21:43:23,410 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 21:43:23,411 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 21:43:23,414 [INFO]  * Restarting with stat
+2025-10-19 21:43:24,626 [WARNING]  * Debugger is active!
+2025-10-19 21:43:24,637 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 21:51:24,567 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 21:51:24,568 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 21:51:24,573 [INFO]  * Restarting with stat
+2025-10-19 21:51:25,527 [WARNING]  * Debugger is active!
+2025-10-19 21:51:25,532 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:12:35,862 [INFO] 127.0.0.1 - - [19/Oct/2025 22:12:35] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-19 22:12:45,394 [INFO] 127.0.0.1 - - [19/Oct/2025 22:12:45] "[33mGET /files HTTP/1.1[0m" 404 -
+2025-10-19 22:12:54,769 [INFO] 127.0.0.1 - - [19/Oct/2025 22:12:54] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-19 22:12:54,924 [INFO] 127.0.0.1 - - [19/Oct/2025 22:12:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-19 22:13:35,848 [INFO] 127.0.0.1 - - [19/Oct/2025 22:13:35] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-19 22:14:23,259 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 22:14:23,260 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 22:14:23,261 [INFO]  * Restarting with stat
+2025-10-19 22:14:24,469 [WARNING]  * Debugger is active!
+2025-10-19 22:14:24,474 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:15:12,211 [INFO]  * Detected change in 'C:\\Users\\Acer\\Documents\\PROGLAN\\Flask\\file-upload\\app.py', reloading
+2025-10-19 22:15:12,341 [INFO]  * Restarting with stat
+2025-10-19 22:15:13,507 [WARNING]  * Debugger is active!
+2025-10-19 22:15:13,511 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:15:17,025 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 22:15:17,025 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 22:15:17,032 [INFO]  * Restarting with stat
+2025-10-19 22:15:18,065 [WARNING]  * Debugger is active!
+2025-10-19 22:15:18,071 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:15:42,934 [INFO] 127.0.0.1 - - [19/Oct/2025 22:15:42] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-19 22:16:07,996 [INFO] 127.0.0.1 - - [19/Oct/2025 22:16:07] "[33mGET / HTTP/1.1[0m" 404 -
+2025-10-19 22:17:28,989 [INFO]  * Detected change in 'C:\\Users\\Acer\\Documents\\PROGLAN\\Flask\\file-upload\\app.py', reloading
+2025-10-19 22:17:29,263 [INFO]  * Restarting with stat
+2025-10-19 22:17:30,466 [WARNING]  * Debugger is active!
+2025-10-19 22:17:30,477 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:18:17,617 [INFO]  * Detected change in 'C:\\Users\\Acer\\Documents\\PROGLAN\\Flask\\file-upload\\app.py', reloading
+2025-10-19 22:18:17,774 [INFO]  * Restarting with stat
+2025-10-19 22:18:19,023 [WARNING]  * Debugger is active!
+2025-10-19 22:18:19,032 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:19:55,638 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 22:19:55,638 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 22:19:55,640 [INFO]  * Restarting with stat
+2025-10-19 22:19:56,474 [WARNING]  * Debugger is active!
+2025-10-19 22:19:56,478 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:20:07,138 [INFO] 127.0.0.1 - - [19/Oct/2025 22:20:07] "GET / HTTP/1.1" 200 -
+2025-10-19 22:20:56,203 [INFO] 127.0.0.1 - - [19/Oct/2025 22:20:56] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2025-10-19 22:32:14,264 [INFO] 127.0.0.1 - - [19/Oct/2025 22:32:14] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:33:22,652 [INFO] 127.0.0.1 - - [19/Oct/2025 22:33:22] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:35:12,511 [INFO] 127.0.0.1 - - [19/Oct/2025 22:35:12] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:35:58,134 [INFO] 127.0.0.1 - - [19/Oct/2025 22:35:58] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:36:02,933 [INFO] 127.0.0.1 - - [19/Oct/2025 22:36:02] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:36:03,598 [INFO] 127.0.0.1 - - [19/Oct/2025 22:36:03] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:36:03,757 [INFO] 127.0.0.1 - - [19/Oct/2025 22:36:03] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:36:03,982 [INFO] 127.0.0.1 - - [19/Oct/2025 22:36:03] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:36:04,094 [INFO] 127.0.0.1 - - [19/Oct/2025 22:36:04] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:41:07,744 [INFO] 127.0.0.1 - - [19/Oct/2025 22:41:07] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2025-10-19 22:41:18,247 [INFO] 127.0.0.1 - - [19/Oct/2025 22:41:18] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:42:32,577 [INFO] 127.0.0.1 - - [19/Oct/2025 22:42:32] "[33mGET /files/1 HTTP/1.1[0m" 404 -
+2025-10-19 22:43:03,272 [INFO] 127.0.0.1 - - [19/Oct/2025 22:43:03] "[31m[1mPUT /files/1 HTTP/1.1[0m" 400 -
+2025-10-19 22:43:19,023 [ERROR] Delete error: File not found
+2025-10-19 22:43:19,025 [INFO] 127.0.0.1 - - [19/Oct/2025 22:43:19] "[31m[1mDELETE /files/1 HTTP/1.1[0m" 400 -
+2025-10-19 22:43:36,426 [INFO]  * Detected change in 'C:\\Users\\Acer\\Documents\\PROGLAN\\Flask\\file-upload\\controllers\\file_controller.py', reloading
+2025-10-19 22:43:36,617 [INFO]  * Restarting with stat
+2025-10-19 22:43:37,957 [WARNING]  * Debugger is active!
+2025-10-19 22:43:37,966 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:43:44,280 [INFO]  * Detected change in 'C:\\Users\\Acer\\Documents\\PROGLAN\\Flask\\file-upload\\controllers\\file_controller.py', reloading
+2025-10-19 22:43:44,497 [INFO]  * Restarting with stat
+2025-10-19 22:43:45,465 [WARNING]  * Debugger is active!
+2025-10-19 22:43:45,477 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:43:48,433 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 22:43:48,434 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 22:43:48,436 [INFO]  * Restarting with stat
+2025-10-19 22:43:49,444 [WARNING]  * Debugger is active!
+2025-10-19 22:43:49,449 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:44:16,114 [INFO] 127.0.0.1 - - [19/Oct/2025 22:44:16] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:44:21,596 [INFO] 127.0.0.1 - - [19/Oct/2025 22:44:21] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:44:29,199 [INFO] 127.0.0.1 - - [19/Oct/2025 22:44:29] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:44:48,615 [INFO] 127.0.0.1 - - [19/Oct/2025 22:44:48] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 22:45:02,410 [INFO]  * Detected change in 'C:\\Users\\Acer\\Documents\\PROGLAN\\Flask\\file-upload\\controllers\\file_controller.py', reloading
+2025-10-19 22:45:02,539 [INFO]  * Restarting with stat
+2025-10-19 22:45:03,600 [WARNING]  * Debugger is active!
+2025-10-19 22:45:03,610 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:45:10,946 [INFO]  * Detected change in 'C:\\Users\\Acer\\Documents\\PROGLAN\\Flask\\file-upload\\controllers\\file_controller.py', reloading
+2025-10-19 22:45:11,130 [INFO]  * Restarting with stat
+2025-10-19 22:45:12,126 [WARNING]  * Debugger is active!
+2025-10-19 22:45:12,137 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:46:39,658 [INFO] 127.0.0.1 - - [19/Oct/2025 22:46:39] "[33mPOST /api/upload HTTP/1.1[0m" 404 -
+2025-10-19 22:47:22,913 [INFO] File saved: uploads/085a3deda4de4affbc3ebde2e84aa2b4\1f9b517f46df487f92bc406f49c04c27_pexels-diva-31759026.jpg
+2025-10-19 22:47:22,922 [INFO] 127.0.0.1 - - [19/Oct/2025 22:47:22] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 22:47:41,790 [INFO] 127.0.0.1 - - [19/Oct/2025 22:47:41] "[33mPOST /files HTTP/1.1[0m" 404 -
+2025-10-19 22:47:59,180 [INFO] 127.0.0.1 - - [19/Oct/2025 22:47:59] "[31m[1mPOST /files/1 HTTP/1.1[0m" 405 -
+2025-10-19 22:48:04,744 [INFO] 127.0.0.1 - - [19/Oct/2025 22:48:04] "GET /files/1 HTTP/1.1" 200 -
+2025-10-19 22:48:26,564 [INFO] File saved: uploads\e7397392533f47969c35392a182c498c_pexels-marek-piwnicki-3907296-11829369.jpg
+2025-10-19 22:48:26,587 [INFO] File updated: ID=1
+2025-10-19 22:48:26,594 [INFO] 127.0.0.1 - - [19/Oct/2025 22:48:26] "PUT /files/1 HTTP/1.1" 200 -
+2025-10-19 22:48:32,716 [INFO] 127.0.0.1 - - [19/Oct/2025 22:48:32] "GET /files/1 HTTP/1.1" 200 -
+2025-10-19 22:48:38,846 [INFO] File deleted from storage: uploads\e7397392533f47969c35392a182c498c_pexels-marek-piwnicki-3907296-11829369.jpg
+2025-10-19 22:48:38,857 [INFO] Record deleted: ID=1
+2025-10-19 22:48:38,858 [INFO] 127.0.0.1 - - [19/Oct/2025 22:48:38] "DELETE /files/1 HTTP/1.1" 200 -
+2025-10-19 22:50:31,493 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 22:50:31,493 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 22:50:31,495 [INFO]  * Restarting with stat
+2025-10-19 22:50:32,756 [WARNING]  * Debugger is active!
+2025-10-19 22:50:32,767 [INFO]  * Debugger PIN: 587-549-864
+2025-10-19 22:53:33,529 [INFO] File saved: uploads/76a9428a06704f839906bb239652e160\9527dee13c174d56bd669078d241b29a_Screenshot_2025-10-18-13-06-38-769_com.facebook.orca.jpg
+2025-10-19 22:53:33,543 [INFO] 127.0.0.1 - - [19/Oct/2025 22:53:33] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 22:53:48,333 [INFO] 127.0.0.1 - - [19/Oct/2025 22:53:48] "[31m[1mPOST /files/3 HTTP/1.1[0m" 405 -
+2025-10-19 22:53:55,504 [INFO] 127.0.0.1 - - [19/Oct/2025 22:53:55] "GET /files/3 HTTP/1.1" 200 -
